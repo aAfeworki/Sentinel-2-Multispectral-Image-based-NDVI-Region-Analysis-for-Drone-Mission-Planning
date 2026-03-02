@@ -1,0 +1,2 @@
+# Sentinel-2-Multispectral-Image-based-NDVI-Region-Analysis-for-Drone-Mission-Planning
+This project provides a Google Earth Engine (GEE) workflow for: Performing NDVI (Normalized Difference Vegetation Index) analysis using Sentinel-2 imagery Selecting a region of interest (ROI) for vegetation analysis Identifying and marking sub-regions requiring drone inspection Exporting those sub-regions as KML files.
