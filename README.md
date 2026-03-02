@@ -49,7 +49,7 @@ Before running the script:
 Draw a single polygon or rectangle
 Rename it as geometry
 This defines the NDVI analysis boundary.
-📸 [Insert Screenshot – Drawing ROI before running script]
+![image alt](https://github.com/aAfeworki/Sentinel-2-Multispectral-Image-based-NDVI-Region-Analysis-for-Drone-Mission-Planning/blob/main/ROI%20Selection.png?raw=true)
 
 3️⃣ Cloud Masking
 Clouds are removed using Sentinel-2’s SCL (Scene Classification Layer).
@@ -68,7 +68,7 @@ NDVI is clipped to ROI
 Visualization includes:
 True color Sentinel-2 image
 NDVI color palette
-📸 [Insert Screenshot – NDVI Visualization Result]
+![image alt](https://github.com/aAfeworki/Sentinel-2-Multispectral-Image-based-NDVI-Region-Analysis-for-Drone-Mission-Planning/blob/main/NDVI%20analysis%20and%20Visualization%20inside%20ROI.png?raw=true)
 
 5️⃣ Mark Drone Inspection Zones
 After NDVI appears:
@@ -79,7 +79,7 @@ Low NDVI patches
 Crop stress areas
 Irrigation anomalies
 Pest suspicion zones
-📸 [Insert Screenshot – Marked Drone Inspection Polygons]
+![image alt](https://github.com/aAfeworki/Sentinel-2-Multispectral-Image-based-NDVI-Region-Analysis-for-Drone-Mission-Planning/blob/main/Drone%20Mission%20Planning%20Polygons%20are%20exported%20as%20KML.png?raw=true)
 
 6️⃣ Export KML for Drone Software
 Export format:
